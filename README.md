@@ -1,4 +1,4 @@
-# Liens
+# Convention
 
 # Équipes
 
