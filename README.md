@@ -1,6 +1,6 @@
 # But
 
-Content
+[Content](Content)
 
 # Action
 
