@@ -1,15 +1,10 @@
-# But
+# Liens
 
-[Content](Content)
+# Équipes
 
-# Action
+![images/diagram/équipes.png](images/diagram/équipes.png)
 
-## Table
-
-| c1 | c2 |
-|----|----|
-| a  | b  |
-| c  | d  |
-| e  | f  |
-
+# Pôles
+ 
+![images/diagram/convention.png](images/diagram/convention.png)
 

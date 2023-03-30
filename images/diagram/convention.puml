@@ -1,0 +1,70 @@
+@startwbs
+scale 10
+
+*[#pink] Pôles
+**[#Skyblue] nourriture
+***[#lightgreen] liste 
+*** achat 
+*** cuisine 
+**[#Skyblue] design
+***[#aliceblue]< tenues
+****[#lightgreen] liste
+**** achat
+***[#aliceblue] décoration
+****[#lightgreen] liste
+**** achat
+*** logo
+**[#Skyblue] publication
+***[#aliceblue] flyers
+****[#lightgreen] modèle
+**** publication
+***[#aliceblue]< vidéos
+**** présentation
+**** publicité
+**[#Skyblue] programme
+***[#lightgreen] theme 
+***[#greenyellow] adoration 
+***[#greenyellow] témoignage
+***[#greenyellow] exhortation
+***[#greenyellow] prédication
+**[#Skyblue] technique
+*** lumières
+*** caméras
+*** son
+@endwbs
+
+' le 15 octobre 17h-20h 
+
+
+
+Siloé tenu peut-être différent
+Idée loge pour les chantres
+Nouveau logo Patricia & Angèle
+tenu: t-shirt oversized avec message dessus
+Roland protocole
+Vidéo de présentation
+Ami de Roland ingénieur 
+List
+organisation
+
+Liste des équipes
+
+Goal: afficher les tâches
+
+Faire deux WBS:
+- tâches
+- groupes
+
+**[#Skyblue] design
+*** decoration
+**** loge
+*** tenues
+**** design
+**** achat
+*** flyers
+**** création
+**** diffusion
+*** vidéos
+**** invitation
+**** invitation
+

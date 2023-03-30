@@ -1,0 +1,40 @@
+@startwbs
+scale 10
+
+* équipes
+**[#Skyblue] orateur
+***[#pink] Joao
+*** Fabrice
+***[#lightgrey] (témoignage)
+**[#Skyblue] protocole
+***[#pink] Roland
+*** Naomi
+*** Angèle
+**[#Skyblue] design
+***[#pink] Angèle
+*** Naomi
+*** Anna
+*** Loris
+**[#Skyblue] chorale
+***[#pink] Fabrice
+**- invités
+***-[#lightgrey] (Chantre)
+***-[#lightgrey] (Chantre)
+***-[#lightgrey] (Chantre)
+*** local
+**** Britney
+**** Ingrid
+**** Eunice
+**** Dorcas
+**** Vestin
+**** Esaïe
+****[#lightgrey] (Guitariste)
+**[#Skyblue] média
+*** projection
+****[#pink] Patricia
+**** Elmy
+*** Mardoché
+*** Ephraïm
+
+@endwbs
+
